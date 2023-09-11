@@ -11,3 +11,6 @@ The things I am considering for my homelab are, but not limited to:
 3. Kali Linux to practice with hacking tools
 
 These plans are still developing and I will make changes to this file along the way.
+
+
+9/11 adding John the Ripper password cracker lab
